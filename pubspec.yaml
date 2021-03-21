@@ -1,8 +1,9 @@
 name: raised_widgets
 description: Flutter package to add raised/heighted Widgets
 version: 0.0.1
-author:
-homepage:
+
+homepage: https://github.com/johnuberbacher/raised_widgets
+repository: https://github.com/johnuberbacher/raised_widgets
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
